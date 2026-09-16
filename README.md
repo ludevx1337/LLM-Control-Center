@@ -603,4 +603,4 @@ Each model remains subject to its publisher's license.
 
 LICENSE
 → Apache License 2.0
-→ Copyright 2026 Ludovic Goncalves
+→ Copyright 2026 LudevX
